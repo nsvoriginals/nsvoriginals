@@ -33,7 +33,7 @@ connect with me on my socials
 
 🢆 I am a computer science engineer.
 
-🢆 I am made up of atoms — what I can do is code.
+🢆 I am bunch of atoms that can code.
 
 🢆 I work on building reliable and scalable software systems, with a strong focus on
 **distributed systems**, **blockchains**, and **modern web backends**.
