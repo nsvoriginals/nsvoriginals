@@ -3,7 +3,11 @@
   <img src="bg.jpg" alt=" Banner" />
 </p>
 
-<h1 align="center">𝒏𝒔𝒗𝒐𝒓𝒊𝒈𝒊𝒏𝒂𝒍𝒔</h1>
+<h1 align="center">𝙣𝙨𝙫𝙤𝙧𝙞𝙜𝙞𝙣𝙖𝙡𝙨</h1>
+
+<p align="center">
+  <i>As he thinks, so he is; as he continues to think, so he remains.</i>
+</p>
 
 ## 𝘴𝘰𝘤𝘪𝘢𝘭
 
